@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/zayar-htun">
-    <img src="https://img.shields.io/badge/GitHub-zayar-htun-181717?style=for-the-badge&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Location-Dubai%2C%20UAE-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white" />
